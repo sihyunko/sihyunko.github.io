@@ -7,6 +7,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 author:
   name: "Sihyun Ko"
