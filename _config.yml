@@ -1,0 +1,26 @@
+title: "Sihyun Ko"
+description: "Developer Blog"
+url: "https://sihyunko.github.io"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: "Sihyun Ko"
+  bio: "WorldSkills 2022 Web Technologies Gold Medalist, Coach"
+
+paginate: 5
+paginate_path: "/page:num/"
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  posts:
+    output: true
+
+navigation:
+  - title: "Home"
+    url: /
